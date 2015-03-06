@@ -13,7 +13,7 @@ describe('task.js', function() {
 
         });
 
-        it('should accept the simple implementation sum(a)(b)', function(done) {
+        it('should accept the alternative implementation sum(a)(b)', function(done) {
 
             expect(sum(2)(5)).to.equals(7);
 
