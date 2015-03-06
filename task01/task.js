@@ -12,7 +12,7 @@ function test1() {
     }
 }
 
-// Uncomment tho line bellow to check the answer
+// Uncomment the line bellow to check the answer
 //test1();
 
 
@@ -32,7 +32,7 @@ function test2() {
     };
 }
 
-// Uncomment tho line bellow to check the answer
+// Uncomment the line bellow to check the answer
 //test2();
 
 
@@ -61,5 +61,5 @@ function test3() {
     console.log(bar());
 }
 
-// Uncomment tho line bellow to check the answer
+// Uncomment the line bellow to check the answer
 //test3();
