@@ -1,0 +1,11 @@
+{
+    "name": "frontend-codeday",
+    "version": "0.0.1",
+    "devDependencies": {
+        "mocha": "*",
+        "chai": "*"
+    },
+    "scripts": {
+        "test": "./node_modules/.bin/mocha"
+    }
+}
